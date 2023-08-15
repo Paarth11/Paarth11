@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paarth Jung Thapa</h1>
 <h3 align="center">I'm a Web developer</h3>
 
-- 🌱 I’m currently learning **Javascipt Ecosystem**
+- 🌱 I’m currently learning **React**
 
 - 📫 **paarthjungthapa@gmail.com**
 
