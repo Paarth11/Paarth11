@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paarth Jung Thapa</h1>
 <h3 align="center">{}</h3>
 
-- 🌱 I’m currently learning **React**
 
 - 📫 **paarthjungthapa@gmail.com**
 
